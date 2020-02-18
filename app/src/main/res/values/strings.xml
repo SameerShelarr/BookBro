@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Book Listing App</string>
+    <string name="your_results_will_be_shown_here">Your results will be shown here.</string>
+    <string name="search_your_favorite_book_s">Search your favorite book\'s!</string>
+    <string name="search">Search</string>
+    <string name="published">Published on</string>
+</resources>
